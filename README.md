@@ -6,14 +6,7 @@ I solve problems mostly in **C#**, and this repo is organized by domains and cat
 ## 📂 Structure
 
 - `Algorithms/` - Contains solutions to algorithmic problems.
-- `DataStructures/` - Contains solutions to data structure problems.
-- Subfolders categorize the problems (e.g., Warmup, Implementation).
 
-## ✅ Completed Categories
-
-- [x] Algorithms → Warmup
-- [x] Algorithms → Implementation
-- [ ] DataStructures → Arrays (in progress)
 
 ## 🛠 Languages Used
 
